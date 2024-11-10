@@ -1,0 +1,112 @@
+Key,Score,Item,Recipe,(Score),Power,Items,Buildings,Resources,Buildings Scaled,Resources Scaled,Score Delta
+0,97.7,Heavy Modular Frame,Alternate: Heavy Encased Frame,(97.7) Heavy Encased Frame,-1.83%,-6.53%,-7.65%,-2.77%,-6.02%,-2.51%,
+1,92.3,Copper Ingot,Alternate: Copper Alloy Ingot,(92.3) Copper Alloy Ingot,0.55%,0.07%,-23.37%,0.10%,-1.24%,-8.11%,-5.4
+2,92,Aluminum Ingot,Alternate: Pure Aluminum Ingot,(92) Pure Aluminum Ingot,-0.66%,-1.67%,-2.16%,-2.16%,-2.70%,-5.28%,-0.3
+3,87.6,Diamonds,Alternate: Oil-Based Diamonds,(87.6) Oil-Based Diamonds,-2.54%,-4.89%,-0.82%,-10.88%,-0.81%,-2.05%,-4.5
+4,87.3,Dark Matter Crystal,Alternate: Dark Matter Trap,(87.3) Dark Matter Trap,-0.52%,-1.53%,0.05%,-2.26%,-0.27%,-5.58%,-0.3
+5,86.7,Heavy Modular Frame,Alternate: Heavy Flexible Frame,(86.7) Heavy Flexible Frame,-1.02%,-3.62%,-3.84%,-2.19%,-3.12%,-0.80%,-0.6
+6,86.1,Alumina Solution,Alternate: Sloppy Alumina,(86.1) Sloppy Alumina,-0.90%,-2.46%,1.20%,-4.81%,-3.05%,-0.65%,-0.6
+7,83,Crystal Oscillator,Alternate: Insulated Crystal Oscillator,(83) Insulated Crystal Oscillator,-1.34%,-1.62%,-3.05%,-1.38%,-3.71%,-1.06%,-3.1
+8,80.4,Circuit Board,Alternate: Silicon Circuit Board,(80.4) Silicon Circuit Board,-1.92%,-0.71%,-3.19%,-0.66%,-4.09%,-0.88%,-2.6
+9,79.1,Computer,Alternate: Crystal Computer,(79.1) Crystal Computer,-1.23%,-2.01%,-2.15%,-1.42%,-2.41%,-0.96%,-1.3
+10,78.8,Fused Modular Frame,Alternate: Heat-Fused Frame,(78.8) Heat-Fused Frame,-0.35%,-2.77%,-2.57%,-1.00%,-0.85%,-1.62%,-0.3
+11,78.3,Uranium Fuel Rod,Alternate: Uranium Fuel Unit,(78.3) Uranium Fuel Unit,-1.64%,-1.63%,-1.55%,-1.94%,-0.81%,-2.65%,-0.5
+12,77.2,Circuit Board,Alternate: Caterium Circuit Board,(77.2) Caterium Circuit Board,-1.96%,-0.69%,-2.72%,-1.78%,-3.80%,-0.43%,-1.1
+13,73.3,Supercomputer,Alternate: Super-State Computer,(73.3) Super-State Computer,-0.83%,-0.97%,-2.77%,-0.40%,-2.18%,-0.93%,-3.9
+14,72,Diamonds,Alternate: Turbo Diamonds,(72) Turbo Diamonds,-3.09%,-1.73%,0.71%,-6.00%,1.19%,-3.10%,-1.3
+15,71.3,Computer,Alternate: Caterium Computer,(71.3) Caterium Computer,-1.01%,-1.16%,-1.25%,-0.85%,-1.93%,-0.60%,-0.7
+16,71,Aluminum Scrap,Alternate: Electrode Aluminum Scrap,(71) Electrode Aluminum Scrap,0.23%,-1.27%,1.23%,-5.41%,1.17%,-3.27%,-0.3
+17,69.6,Fuel,Alternate: Diluted Fuel,(69.6) Diluted Fuel,-0.96%,0.17%,-1.67%,1.32%,-2.63%,-0.57%,-1.5
+18,67.9,Turbo Motor,Alternate: Turbo Pressure Motor,(67.9) Turbo Pressure Motor,-0.58%,-0.74%,-0.94%,-0.61%,-1.23%,-1.05%,-1.7
+19,67.4,Concrete,Alternate: Rubber Concrete,(67.4) Rubber Concrete,-0.27%,-1.56%,-3.80%,-4.03%,-0.52%,-0.84%,-0.5
+20,66.7,AI Limiter,Alternate: Plastic AI Limiter,(66.7) Plastic AI Limiter,-0.42%,-1.02%,-1.57%,-1.20%,-1.31%,-0.48%,-0.8
+21,65.5,Screw,Alternate: Steel Screw,(65.5) Steel Screw,-0.42%,-0.51%,-5.15%,-0.14%,-2.07%,-0.02%,-1.2
+22,64.4,Motor,Alternate: Rigor Motor,(64.4) Rigor Motor,-0.02%,-1.17%,-1.12%,-0.68%,-0.50%,-0.71%,-1
+23,64.2,Iron Rod,Alternate: Steel Rod,(64.2) Steel Rod,-0.30%,-0.71%,-3.05%,-0.83%,-1.41%,-0.25%,-0.3
+24,63.5,Concrete,Alternate: Fine Concrete,(63.5) Fine Concrete,-0.25%,-1.32%,-2.92%,-3.79%,-0.04%,-0.84%,-0.7
+25,63.1,Modular Frame,Alternate: Steeled Frame,(63.1) Steeled Frame,-0.42%,-0.02%,-1.85%,0.17%,-2.04%,-0.10%,-0.4
+26,62.6,Steel Beam,Alternate: Aluminum Beam,(62.6) Aluminum Beam,-0.64%,-1.11%,-2.30%,-0.66%,-1.64%,0.64%,-0.5
+27,61,Iron Rod,Alternate: Aluminum Rod,(61) Aluminum Rod,-0.33%,-0.54%,-3.06%,-0.71%,-1.44%,0.16%,-1.6
+28,60.8,Turbo Motor,Alternate: Turbo Electric Motor,(60.8) Turbo Electric Motor,-0.33%,-0.19%,-0.32%,-0.39%,-0.59%,-0.96%,-0.2
+29,60,Motor,Alternate: Electric Motor,(60) Electric Motor,-0.07%,-0.68%,-0.50%,-0.53%,-0.34%,-0.60%,-0.8
+30,59.2,Concrete,Alternate: Wet Concrete,(59.2) Wet Concrete,0.08%,-0.23%,-4.00%,-0.56%,-0.71%,-0.56%,-0.8
+31,59.2,Automated Wiring,Alternate: Automated Speed Wiring,(59.2) Automated Speed Wiring,-0.06%,-0.57%,-1.01%,-0.06%,-0.70%,-0.24%,0
+32,59,Steel Ingot,Alternate: Coke Steel Ingot,(59) Coke Steel Ingot,-0.08%,-0.07%,-0.15%,-2.94%,-0.47%,-0.89%,-0.2
+33,58.9,Encased Uranium Cell,Alternate: Infused Uranium Cell,(58.9) Infused Uranium Cell,-0.03%,0.51%,1.31%,-0.25%,0.79%,-2.56%,0
+34,57.1,High-Speed Connector,Alternate: Silicon High-Speed Connector,(57.1) Silicon High-Speed Connector,-0.06%,-0.59%,-0.71%,-0.15%,-0.41%,-0.16%,-1.8
+35,57.1,Radio Control Unit,Alternate: Radio Control System,(57.1) Radio Control System,-0.95%,0.75%,-1.22%,0.33%,-1.99%,0.10%,0
+36,56.4,Steel Ingot,Alternate: Solid Steel Ingot,(56.4) Solid Steel Ingot,-0.14%,-0.27%,0.27%,-2.46%,0.25%,-0.96%,-0.7
+37,56.1,Heat Sink,Alternate: Heat Exchanger,(56.1) Heat Exchanger,-0.19%,-0.41%,-0.57%,-0.40%,-0.60%,0.01%,-0.3
+38,56,Plastic,Alternate: Recycled Plastic,(56) Recycled Plastic,0.11%,0.42%,0.10%,-0.03%,0.10%,-0.77%,-0.1
+39,55.8,Iron Plate,Alternate: Coated Iron Plate,(55.8) Coated Iron Plate,-0.07%,-0.48%,-1.26%,-0.49%,-0.35%,-0.11%,-0.2
+40,55.7,Reinforced Iron Plate,Alternate: Adhered Iron Plate,(55.7) Adhered Iron Plate,-0.01%,-0.94%,-0.20%,-0.13%,-0.04%,0.04%,-0.1
+41,53.7,Reinforced Iron Plate,Alternate: Stitched Iron Plate,(53.7) Stitched Iron Plate,-0.03%,-0.51%,-0.24%,-0.04%,-0.08%,-0.01%,-2
+42,53.7,Cable,Alternate: Insulated Cable,(53.7) Insulated Cable,-0.04%,-0.43%,-0.74%,-0.06%,-0.31%,0.13%,0
+43,53.3,Cable,Alternate: Coated Cable,(53.3) Coated Cable,0.04%,-0.38%,-0.62%,-0.07%,-0.19%,0.02%,-0.4
+44,53.2,Wire,Alternate: Fused Wire,(53.2) Fused Wire,-0.03%,-0.34%,-1.07%,-0.42%,-0.09%,-0.09%,-0.1
+45,53.2,Smart Plating,Alternate: Plastic Smart Plating,(53.2) Plastic Smart Plating,0.00%,-0.17%,-0.54%,-0.05%,-0.33%,-0.01%,0
+46,53.2,Rotor,Alternate: Copper Rotor,(53.2) Copper Rotor,-0.01%,-0.27%,-0.51%,0.17%,-0.28%,0.03%,0
+47,53.1,Iron Plate,Alternate: Steel Cast Plate,(53.1) Steel Cast Plate,0.00%,-0.33%,-0.97%,-0.40%,-0.09%,-0.09%,0
+48,53,Rocket Fuel,Alternate: Nitro Rocket Fuel,(53) Nitro Rocket Fuel,-1.39%,0.03%,-2.35%,2.23%,-3.13%,2.56%,-0.1
+49,52.9,Copper Sheet,Alternate: Steamed Copper Sheet,(52.9) Steamed Copper Sheet,0.47%,-0.43%,-2.36%,0.08%,0.18%,-0.20%,-0.1
+50,52.8,Supercomputer,Alternate: OC Supercomputer,(52.8) OC Supercomputer,-0.73%,0.95%,-1.76%,0.64%,-2.19%,0.75%,-0.1
+51,52.5,Rotor,Alternate: Steel Rotor,(52.5) Steel Rotor,0.04%,-0.51%,-0.14%,0.13%,0.03%,0.07%,-0.3
+52,52.2,Caterium Ingot,Alternate: Tempered Caterium Ingot,(52.2) Tempered Caterium Ingot,-0.04%,-0.87%,1.39%,-1.48%,-0.19%,0.67%,-0.2
+53,51.9,Cooling System,Alternate: Cooling Device,(51.9) Cooling Device,0.08%,0.01%,0.24%,-0.23%,0.17%,-0.46%,-0.3
+54,51.9,Quartz Crystal,Alternate: Pure Quartz Crystal,(51.9) Pure Quartz Crystal,0.36%,0.27%,-1.21%,0.61%,0.32%,-0.84%,0
+55,51.8,Electromagnetic Control Rod,Alternate: Electromagnetic Connection Rod,(51.8) Electromagnetic Connection Rod,0.01%,-0.21%,-0.36%,-0.01%,-0.15%,0.07%,-0.1
+56,51.7,Cable,Alternate: Quickwire Cable,(51.7) Quickwire Cable,0.04%,-0.50%,-0.25%,-0.08%,0.12%,0.09%,0
+57,51.7,Wire,Alternate: Caterium Wire,(51.7) Caterium Wire,-0.06%,-0.28%,-1.03%,-0.33%,-0.32%,0.31%,-0.1
+58,51.6,Stator,Alternate: Quickwire Stator,(51.6) Quickwire Stator,-0.14%,-0.21%,-0.34%,0.01%,-0.57%,0.49%,-0.1
+59,51.5,Modular Frame,Alternate: Bolted Frame,(51.5) Bolted Frame,-0.39%,1.39%,-1.60%,-0.12%,-1.63%,0.01%,-0.1
+60,51.4,Reinforced Iron Plate,Alternate: Bolted Iron Plate,(51.4) Bolted Iron Plate,-0.11%,0.25%,-0.44%,0.00%,-0.50%,0.01%,0
+61,51.1,Black Powder,Alternate: Fine Black Powder,(51.1) Fine Black Powder,-0.04%,-0.03%,-0.12%,-0.03%,-0.10%,-0.05%,-0.3
+62,51,Heavy Oil Residue,Alternate: Heavy Oil Residue,(51) Heavy Oil Residue,0.05%,0.08%,-0.08%,-0.14%,-0.19%,0.00%,-0.1
+63,50.8,Versatile Framework,Alternate: Flexible Framework,(50.8) Flexible Framework,0.04%,-0.14%,-0.15%,-0.06%,0.01%,-0.01%,-0.2
+64,50.7,Turbofuel,Alternate: Turbo Heavy Fuel,(50.7) Turbo Heavy Fuel,-0.31%,-0.20%,-0.44%,-0.21%,-0.40%,0.46%,-0.1
+65,50.7,Screw,Alternate: Cast Screw,(50.7) Cast Screw,-0.01%,-0.05%,-1.51%,0.65%,-0.23%,0.16%,-0.1
+66,50.3,Iron Ingot,Alternate: Iron Alloy Ingot,(50.3) Iron Alloy Ingot,0.01%,-0.06%,-0.28%,-0.14%,0.03%,-0.02%,-0.4
+67,50.2,Fabric,Alternate: Polyester Fabric,(50.2) Polyester Fabric,0.00%,-0.02%,-0.02%,0.01%,-0.02%,0.01%,-0.1
+68,50.1,Polymer Resin,Alternate: Polymer Resin,(50.1) Polymer Resin,0.00%,-0.01%,-0.01%,0.01%,-0.01%,0.01%,-0.1
+69,50,Coal,Alternate: Biocoal,(50) Biocoal,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,-0.1
+70,50,Coal,Alternate: Charcoal,(50) Charcoal,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0
+71,50,Dissolved Silica,Alternate: Quartz Purification,(50) Quartz Purification,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0
+72,50,Heavy Oil Residue,Alternate: Polymer Resin,,-0.02%,-0.04%,0.04%,0.07%,0.09%,0.00%,0
+73,50,Packaged Fuel,Alternate: Diluted Packaged Fuel,(50) Diluted Packaged Fuel,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0
+74,50,Polymer Resin,Alternate: Heavy Oil Residue,,0.00%,0.01%,0.00%,-0.01%,0.00%,0.00%,0
+75,49.7,Iron Ingot,Alternate: Pure Iron Ingot,(49.7) Pure Iron Ingot,0.06%,-0.02%,-0.23%,-0.05%,0.07%,-0.01%,-0.3
+76,49.7,Iron Ingot,Alternate: Leached Iron ingot,(49.7) Leached Iron ingot,0.04%,-0.03%,-0.29%,-0.12%,0.02%,0.06%,-0.1
+77,49.5,Wire,Alternate: Iron Wire,(49.5) Iron Wire,0.04%,-0.04%,0.61%,-0.17%,0.28%,-0.15%,-0.2
+78,49.4,Empty Canister,Alternate: Coated Iron Canister,(49.4) Coated Iron Canister,0.01%,0.06%,0.06%,0.06%,0.16%,-0.11%,-0.1
+79,49.3,Battery,Alternate: Classic Battery,(49.3) Classic Battery,0.03%,0.19%,0.54%,-0.45%,0.39%,-0.44%,-0.1
+80,49.1,Empty Canister,Alternate: Steel Canister,(49.1) Steel Canister,-0.01%,0.17%,0.11%,0.12%,0.01%,-0.04%,-0.1
+81,49,Quickwire,Alternate: Fused Quickwire,(49) Fused Quickwire,0.22%,0.93%,-1.53%,1.07%,0.77%,-1.47%,-0.1
+82,49,Silica,Alternate: Cheap Silica,(49) Cheap Silica,0.30%,0.53%,-0.47%,1.25%,0.78%,-0.09%,-0.1
+83,48.5,Steel Beam,Alternate: Molded Beam,(48.5) Molded Beam,0.02%,0.03%,-0.34%,0.24%,0.04%,0.17%,-0.5
+84,48.5,Aluminum Casing,Alternate: Alclad Casing,(48.5) Alclad Casing,0.10%,0.15%,-0.53%,0.58%,0.27%,-0.16%,0
+85,48.3,Iron Ingot,Alternate: Basic Iron Ingot,(48.3) Basic Iron Ingot,0.05%,0.06%,-0.17%,0.14%,0.13%,0.08%,-0.1
+86,48.2,Silica,Alternate: Distilled Silica,(48.2) Distilled Silica,0.24%,0.72%,-0.85%,0.25%,0.81%,-0.18%,-0.1
+87,48.1,Quartz Crystal,Alternate: Fused Quartz Crystal,(48.1) Fused Quartz Crystal,0.15%,0.28%,-1.29%,0.66%,0.23%,-0.18%,-0.1
+88,46.5,Steel Pipe,Alternate: Molded Steel Pipe,(46.5) Molded Steel Pipe,0.10%,0.00%,-1.55%,0.49%,0.24%,0.31%,-1.5
+89,46.4,Caterium Ingot,Alternate: Leached Caterium Ingot,(46.4) Leached Caterium Ingot,0.31%,0.27%,-0.34%,0.15%,0.48%,-0.16%,-0.1
+90,46.1,Turbofuel,Alternate: Turbo Blend Fuel,(46.1) Turbo Blend Fuel,-0.53%,-0.02%,-1.13%,0.60%,-0.88%,1.46%,-0.3
+91,45.3,Circuit Board,Alternate: Electrode Circuit Board,(45.3) Electrode Circuit Board,-0.20%,-0.24%,0.23%,-1.05%,-0.20%,1.15%,-0.8
+92,44.1,Caterium Ingot,Alternate: Pure Caterium Ingot,(44.1) Pure Caterium Ingot,0.68%,0.32%,0.47%,0.68%,1.28%,-0.59%,-1.3
+93,42.6,Encased Industrial Beam,Alternate: Encased Industrial Pipe,(42.6) Encased Industrial Pipe,0.43%,0.60%,1.83%,0.24%,1.25%,-0.60%,-1.4
+94,42.1,Rubber,Alternate: Recycled Rubber,(42.1) Recycled Rubber,0.96%,2.06%,2.81%,1.41%,2.23%,0.20%,-0.5
+95,38,Steel Ingot,Alternate: Compacted Steel Ingot,(38) Compacted Steel Ingot,0.15%,1.58%,0.48%,-0.85%,0.75%,-0.31%,-4.1
+96,37.2,Quartz Crystal,Alternate: Quartz Purification,(37.2) Quartz Purification,0.73%,1.13%,-2.74%,1.04%,1.38%,-0.33%,-0.8
+97,36.4,Plutonium Fuel Rod,Alternate: Plutonium Fuel Unit,(36.4) Plutonium Fuel Unit,0.19%,0.95%,0.74%,0.91%,0.33%,0.96%,-0.8
+98,35.8,Diamonds,Alternate: Pink Diamonds,(35.8) Pink Diamonds,0.27%,-0.88%,2.31%,-4.14%,2.80%,0.53%,-0.6
+99,34.9,Encased Plutonium Cell,Alternate: Instant Plutonium Cell,(34.9) Instant Plutonium Cell,1.04%,0.62%,0.53%,0.56%,0.82%,1.06%,-0.9
+100,33,Steel Pipe,Alternate: Iron Pipe,(33) Iron Pipe,0.24%,1.46%,0.60%,2.02%,1.23%,0.18%,-1.8
+101,23.1,Aluminum Scrap,Alternate: Instant Scrap,(23.1) Instant Scrap,1.48%,-2.71%,1.04%,-0.73%,5.16%,2.45%,-10
+102,19.5,Copper Ingot,Alternate: Pure Copper Ingot,(19.5) Pure Copper Ingot,12.56%,-4.06%,-4.44%,-11.41%,23.19%,-11.53%,-3.6
+103,13,Non-Fissile Uranium,Alternate: Fertile Uranium,(13) Fertile Uranium,2.76%,2.25%,2.19%,2.45%,2.13%,3.23%,-6.5
+104,9.1,Radio Control Unit,Alternate: Radio Connection Unit,(9.1) Radio Connection Unit,0.62%,2.71%,3.92%,2.19%,1.98%,4.49%,-3.9
+105,5.2,Diamonds,Alternate: Cloudy Diamonds,(5.2) Cloudy Diamonds,4.19%,5.40%,1.43%,11.85%,2.18%,3.98%,-3.9
+106,4.2,Ionized Fuel,Alternate: Dark-Ion Fuel,(4.2) Dark-Ion Fuel,-0.23%,4.33%,2.59%,3.75%,0.87%,7.14%,-1
+107,3.2,Dark Matter Crystal,Alternate: Dark Matter Crystallization,(3.2) Dark Matter Crystallization,4.62%,3.00%,3.19%,3.38%,1.66%,8.54%,-1
+108,2.9,Diamonds,Alternate: Petroleum Diamonds,(2.9) Petroleum Diamonds,3.73%,6.85%,11.75%,-9.73%,8.28%,-0.72%,-0.3
+109,2,Copper Ingot,Alternate: Leached Copper Ingot,(2) Leached Copper Ingot,5.20%,2.18%,-18.87%,-4.65%,4.66%,8.30%,-0.9
+110,0.2,Copper Ingot,Alternate: Tempered Copper Ingot,(0.2) Tempered Copper Ingot,7.99%,9.95%,-3.63%,-16.70%,19.14%,-2.63%,-1.8
