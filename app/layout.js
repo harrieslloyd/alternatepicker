@@ -5,16 +5,15 @@ import clsx from "clsx";
 
 import { Providers } from "./providers";
 
-import { siteConfig } from "@/config/site";
 import { fontSans } from "@/config/fonts";
 import { ThemeSwitch } from "./components/theme-switch";
 
 export const metadata = {
   title: {
-    default: siteConfig.name,
-    template: `%s - ${siteConfig.name}`,
+    default: "Satisfactory: Alternate Assistant",
+    template: `%s - Satisfactory: Alternate Assistant`,
   },
-  description: siteConfig.description,
+  description: "Helps you choose which alternate recipe to select!",
   icons: {
     icon: "/favicon.ico",
   },
