@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import "@/styles/globals.css";
 import { Metadata, Viewport } from "next";
 import { Link } from "@nextui-org/link";
@@ -31,6 +32,7 @@ export default function RootLayout({
 }) {
   return (
     <html suppressHydrationWarning lang="en">
+      <Analytics />
       <head />
       <body
         className={clsx(
